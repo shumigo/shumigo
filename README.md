@@ -4,7 +4,7 @@
 [![MIT License](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvictordels/)
 
 
-Meu nome João Victor (🇧🇷). Front-End Developer 2021. Meu sonho é poder contribuir e aumentar minhas habilidades com projetos open source, obter mais conhecimento e técnicas como desenvolvedor.
+Meu nome João Victor. Front-End Developer 2021. Meu sonho é poder contribuir e aumentar minhas habilidades com projetos open source, obter mais conhecimento e técnicas como desenvolvedor.
 
 No meu tempo livre gosto de ver filmes (🎞️) e séries (📺), ler livros, (📚), ouvir músicas (🎵) podcast (🎧) e eventualmente eu gosto de aproveitar a vida com minha esposa, amigos com uma cerveja (🍺).
 
