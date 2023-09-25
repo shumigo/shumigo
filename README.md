@@ -1,30 +1,59 @@
-
-# João Victor 👩‍💻
-
-[![MIT License](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvictordels/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Yago+Mendes;I'm+20+years+old;I+from+Brasil,+MG;I+study+Computer+Science+at+UNA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-Meu nome João Victor. Front-End Developer 2021. Meu sonho é poder contribuir e aumentar minhas habilidades com projetos open source, obter mais conhecimento e técnicas como desenvolvedor.
+## Sobre mim:
+<div align="left">
+   <li>Meu nome: João Victor
+   <li>Cursando Faculdade - Analise e Desenvolvimento de Sistemas
+   <li>Front-End Developer
+      
+## Redes de conexão: 
+<div align="left">  
+<a href="joaovictordels99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/jvictordels/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.instagram.com/yg_mendes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
 
-No meu tempo livre gosto de ver filmes (🎞️) e séries (📺), ler livros, (📚), ouvir músicas (🎵) podcast (🎧) e eventualmente eu gosto de aproveitar a vida com minha esposa, amigos com uma cerveja (🍺).
+<div align="left">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Yago Mendes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMendes21&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevMendes21&theme=react-dark)](https://github.com/DevMendes21/github-readme-activity-graph)
 
-Habilidades:
-<table>
-  <tr>
-    <td valign="top"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
-    <td valign="top"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </td>
-    <td valign="top"><img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> </td>
-    <td valign="top"><img alt="PHP" src="https://img.shields.io/badge/-PHP-442244.svg?logo=php&style=flat" /> </td>
-    <td valign="top"><img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" /></td>
-    <td valign="top"><img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></td>
-    
-    
-  </tr>
-</table>
+   ### Principais competências:
+  ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D111)&nbsp;
+  ![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-<br>
-<br>
 
-<img alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <strong>(Cursando)</strong>
-<img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <strong>(Cursando)</strong>
-<img alt="NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <strong>(Cursando)</strong>
+
+### Ferramentas:
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![KaliLinux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+### Outros Conhecimentos:
+![Php](https://img.shields.io/badge/-PHP-442244.svg?logo=php&style=flat)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+   
+### Cursando Rocketseat:
+![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117&textColor=0D111)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevMendes21}/count.svg" /></p> 
+<br></div>
+  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
