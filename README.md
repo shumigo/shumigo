@@ -50,7 +50,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117&textColor=0D111)&nbsp;
 
   <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contagem de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevMendes21}/count.svg" /></p> 
 <br></div>
   
