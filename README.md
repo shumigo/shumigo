@@ -3,8 +3,8 @@
 
 ## Sobre mim:
 <div align="left">
-   <li>Meu nome: João Victor
-   <li>Cursando Faculdade - Analise e Desenvolvimento de Sistemas
+   <li>Seja Bem vindo
+   <li>Amante da programação
    <li>Front-End Developer
       
 ## Redes de conexão: 
@@ -15,11 +15,11 @@
 </div>
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevMendes21&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Yago Mendes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMendes21&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shumigo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Yago Mendes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shumigo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
    
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevMendes21&theme=react-dark)](https://github.com/DevMendes21/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shumigo&theme=react-dark)](https://github.com/shumigo/github-readme-activity-graph)
 
    ### Principais competências:
   ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D111)&nbsp;
