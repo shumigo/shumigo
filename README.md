@@ -1,11 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é:+João+Victor;Tenho:+24+Anos+;Moro+no+Brasil,+RJ;+Estudo+Analise+Desenvolvimento+De+Sistemas+IBMR;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é:+João+Victor;Tenho:+27+Anos+;Moro+no+Brasil,+RJ;+Estudo+Analise+Desenvolvimento+De+Sistemas+IBMR;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 
 ## Sobre mim:
 <div align="left">
    <li>Seja Bem vindo
    <li>Amante da programação
-   <li>Front-End Developer
+   <li>Beck-End Developer
+   <li>CyberSecurity
       
 ## Redes de conexão: 
 <div align="left">  
